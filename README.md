@@ -1,4 +1,4 @@
-# USUERS API
+# USERS API
 ## Como levantar la api
 Bien, primero lo que vamos a hacer es, teniendo docker instalado, parados en la carpeta raiz del proyecto, vamos a correr el comando, este comando nos va a levantar un contenedor de docker con mysql para la bd y les va a crear el volumen.
 ```
